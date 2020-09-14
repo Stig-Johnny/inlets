@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" modified="2020-09-14T15:54:51.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="KOS4tccLfrd_Wav_v1WV" version="13.6.10" type="github">
+  <diagram id="s8AwVMIxezCo4EP9aFGA" name="Page-1">
+    <mxGraphModel dx="2062" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="O-EB3cGpP6omxJuydePZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#1A1A1A;startArrow=classic;startFill=1;" parent="1" source="O-EB3cGpP6omxJuydePZ-2" target="O-EB3cGpP6omxJuydePZ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-2" value="&lt;b&gt;&lt;u&gt;Cluster&lt;/u&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="464" y="641" width="291" height="241" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1A1A1A;metaEdit=0;sketch=0;" parent="1" source="O-EB3cGpP6omxJuydePZ-5" target="O-EB3cGpP6omxJuydePZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="340" />
+              <mxPoint x="209" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1A1A1A;endArrow=none;endFill=0;" parent="1" source="O-EB3cGpP6omxJuydePZ-5" target="O-EB3cGpP6omxJuydePZ-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://www.cloudflare.com/img/logo-web-badges/cf-logo-on-white-bg.svg;fontColor=#FFB570;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="104" y="209" width="210" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.67;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FFB570;exitPerimeter=0;" parent="1" source="O-EB3cGpP6omxJuydePZ-8" target="O-EB3cGpP6omxJuydePZ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="209" y="170" />
+              <mxPoint x="209" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-8" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;fontColor=#FFB570;" parent="1" vertex="1">
+          <mxGeometry x="149" y="50" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-9" value="&lt;b&gt;Inlets server (Azure)&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=right;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;labelPosition=left;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="170" y="373" width="76.09" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontColor=#1A1A1A;" parent="1" source="O-EB3cGpP6omxJuydePZ-17" target="O-EB3cGpP6omxJuydePZ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#1A1A1A;" parent="1" source="O-EB3cGpP6omxJuydePZ-17" target="O-EB3cGpP6omxJuydePZ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="253" y="701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-12" value="{sub-domain}.stigjohnny.no=&lt;br&gt;192.168.1.3:5000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;fontSize=12;fontStyle=1" parent="O-EB3cGpP6omxJuydePZ-11" vertex="1" connectable="0">
+          <mxGeometry x="0.353" y="2" relative="1" as="geometry">
+            <mxPoint x="-46.09" y="16.72" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;fontColor=#1A1A1A;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="O-EB3cGpP6omxJuydePZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="822" />
+            </Array>
+            <mxPoint x="464" y="822" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-14" value="{sub-domain}.stigjohnny.no = &lt;br&gt;192.168.1.3:8080" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;fontStyle=1;fontSize=12;" parent="O-EB3cGpP6omxJuydePZ-13" vertex="1" connectable="0">
+          <mxGeometry x="0.0976" y="-4" relative="1" as="geometry">
+            <mxPoint x="-1.1000000000000014" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontColor=#1A1A1A;" parent="1" source="O-EB3cGpP6omxJuydePZ-17" target="O-EB3cGpP6omxJuydePZ-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-16" value="{sub-domain}.stigjohnny.no = 192.168.1.x:6262" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;fontSize=12;fontStyle=1" parent="O-EB3cGpP6omxJuydePZ-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2485" y="131" relative="1" as="geometry">
+            <mxPoint x="10.900000000000006" y="23.010000000000005" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-17" value="&lt;b&gt;Inlets client (Raspberry pi)&lt;/b&gt;" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="165.09" y="657" width="88" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.513;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1A1A1A;startArrow=classic;startFill=1;" parent="1" source="O-EB3cGpP6omxJuydePZ-20" target="O-EB3cGpP6omxJuydePZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontColor=#1A1A1A;" parent="1" source="O-EB3cGpP6omxJuydePZ-20" target="O-EB3cGpP6omxJuydePZ-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://www.cloudflare.com/img/logo-web-badges/cf-logo-on-white-bg.svg;fontColor=#FFB570;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="104" y="494" width="210" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-21" value="Inlets serve IP (Ex. 10.10.10.10)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="320" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-22" value="wss://{inlets-server-sub-domain}.stigjohnny.no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="210" y="605" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-23" value="Inlets serve IP (Ex. 10.10.10.10)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="209" y="460" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.986;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#1A1A1A;endArrow=none;endFill=0;" parent="1" source="O-EB3cGpP6omxJuydePZ-25" target="O-EB3cGpP6omxJuydePZ-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-25" value="&lt;div&gt;&lt;span&gt;Cloudflare&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;IP filter&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#333333;align=left;spacingLeft=11;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="419" y="358" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-26" value="&lt;div&gt;&lt;span&gt;Cloudflare&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;login&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#333333;align=left;spacingLeft=11;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="419" y="212" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-28" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="490" y="692" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-29" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="490" y="782" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-30" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="575" y="692" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-31" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="665" y="692" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-32" value="" style="shape=image;html=1;verticalAlign=middle;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/272_Raspberry_Pi_logo-128.png;fontColor=#1A1A1A;labelPosition=left;align=right;" parent="1" vertex="1">
+          <mxGeometry x="575" y="782" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-33" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.laptop;pointerEvents=1;fontColor=#1A1A1A;fillColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="666.33" y="802" width="66.67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-34" value="&lt;b&gt;NAS (Persistent storage)&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/windows8_icons/26/nas.png;fillColor=#1A1A1A;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="579.5" y="956" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O-EB3cGpP6omxJuydePZ-35" value="https://{sub-domain}.stigjohnny.no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="209" y="160" width="210" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
