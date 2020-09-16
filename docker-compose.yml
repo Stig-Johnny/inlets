@@ -1,0 +1,22 @@
+version: '3.8'
+
+secrets:
+  inlets_authtoken:
+    external: true
+
+services:
+  
+    nginx:
+      image: nginx
+      logging:
+        options:
+          max-size: "10m"
+
+    inlets-client:
+      image: inlets/inlets:2.7.6      
+      secrets:
+        - inlets_authtoken
+      command: client --remote ${INLETS_SERVER_URL} --upstream=demo.stigjohnny.no=http://nginx:80 --token-from=/run/secrets/inlets_authtoken --print-token=false
+      logging:
+        options:
+          max-size: "10m"
